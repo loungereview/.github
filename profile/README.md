@@ -1,6 +1,6 @@
 # LoungeReview — Product, App & API Overview
 
-LoungeReview is a global platform dedicated to helping travelers discover, access, and evaluate airport lounges worldwide, and purchase access.
+LoungeReview is a global platform dedicated to helping travelers discover, access, and evaluate airport lounges worldwide. We also offer the ability to pre-book and purchase access to hundreds of lounges.
 The LoungeReview API is available to qualified partners and developers.
 
 ---
