@@ -29,6 +29,8 @@ The LoungeReview app (iOS & Android) is built on our own API and trusted by hund
 - Sync your travel plans with TripIt and find out what lounges you can visit
 - Available in English, French, Portuguese, Spanish
 
+Find out more at: https://loungereview.com/app/
+
 ---
 
 ## 🧩 LoungeReview API
